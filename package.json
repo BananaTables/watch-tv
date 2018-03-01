@@ -1,0 +1,11 @@
+{
+  "name": "watch-tv",
+  "version": "1.0.0",
+  "description": "An application to help you find things to watch on TV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "F&S Industries",
+  "license": "ISC"
+}
